@@ -47,3 +47,9 @@
 *.wsf
 *.xml
 *.zipx
+*.mp4.lnk  
+*.mp3.lnk  
+*.mkv.lnk
+*.torrent.lnk 
+*.arj
+*.lzh
